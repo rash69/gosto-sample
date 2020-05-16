@@ -1,0 +1,9 @@
+.cart-container{
+    margin-top: 100px;
+}
+
+#payment-area{
+    margin-top: 50px;
+    border-top: 2px solid salmon;
+    padding: 20px;
+}

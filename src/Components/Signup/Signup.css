@@ -1,0 +1,21 @@
+.sign-up-btn {
+	background-color: greenyellow;
+	color: white;
+	padding: 10px 0;
+}
+.sign-up-btn:hover{
+	color: black;
+}
+.has-account a {
+	color: red;
+}
+.signup-container{
+	margin-top: 200px;
+}
+.sign-up{
+    background: url('../../images/Others/signup-bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}

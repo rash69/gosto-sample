@@ -1,0 +1,19 @@
+.services {
+    text-align: center;
+  }
+  .services h1{
+    padding: 10px;
+  }
+.services-center {
+    width: 90vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
+    grid-row-gap: 2rem;
+    grid-column-gap: 50px;
+  }
+.service img {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+  }
+  

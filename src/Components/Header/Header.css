@@ -1,0 +1,27 @@
+.logo-aria {
+	width: 40%;
+	margin: 15px;
+}
+.header-right div.d-flex {
+    flex-flow: row-reverse;
+}
+.header-right div.d-flex button {
+	margin: 15px;
+}
+div img {
+	width: 100%;
+}
+input:focus {
+	outline-style: none;
+	border:none;
+}
+.items{
+    color: white;
+    border: none;
+}
+.items:focus{
+    outline: none;
+}
+.items:hover{
+    color: greenyellow;
+}

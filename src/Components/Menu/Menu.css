@@ -1,0 +1,28 @@
+.category-btn{
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    margin: 15px 10px;
+    padding: 10px;
+}
+.category-btn:focus{
+    outline: none;
+}
+.active-btn{
+    position: relative;
+    color: white;
+}
+.active-btn:after {
+	position: absolute;
+	content: "";
+	background: white;
+	height: 2px;
+	width: 20%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin-left: 40%;
+}
+.menu-container{
+    margin-top: 90px;
+}
